@@ -1,7 +1,3 @@
-Got it. Let's revise the README to include instructions for running the app locally, deployment links, and a placeholder for screenshots, making it suitable for a public GitHub repository.
-
------
-
 # Backspace: Your AI Coding Partner
 
 ## Overview
